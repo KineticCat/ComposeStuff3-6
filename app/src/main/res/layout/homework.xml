@@ -91,7 +91,7 @@
             android:layout_height="match_parent"
             android:paddingLeft="3dp"
             android:paddingRight="3dp"
-            android:src="@drawable/favorite_24px" />
+            android:src="@drawable/baseline_download_24" />
     </LinearLayout>
 
     <LinearLayout

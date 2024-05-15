@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Homework Application</string>
+    <string name="say_hello">say hello</string>
+    <string name="locationF" translatable="false">Almaty,Kazakhstan</string>
+    <string name="CameraMessage">Camera</string>
+    <string name="ShouterSpeedMessage">Shouter Speed</string>
+    <string name="FocalMessage">Focal Length</string>
+    <string name="ISOMessage">ISO</string>
+    <string name="DimensionsMessage">Dimensions</string>
+    <string name="ApertureMessage">Aperture</string>
+    <string name="maCamera">NIKON3200</string>
+    <string name="maShouterSpeed">1/125s</string>
+    <string name="maAperture">f/50</string>
+    <string name="maDimensions">3906 x 4882</string>
+    <string name="maFocal">18.0mm</string>
+    <string name="maISO">100</string>
+    <string name="ViewsT">Views</string>
+    <string name="DownloadsT">Downloads</string>
+    <string name="LikesT">Likes</string>
+    <string name="LikesIn">1.7K</string>
+    <string name="DownloadIn">99.1K</string>
+    <string name="ViewsIn">8.8M</string>
+    <string name="locationCi">Almaty</string>
+    <string name="locationCo">Kazakhstan</string>
+</resources>
